@@ -1,9 +1,11 @@
 import time
 
+
 class Human:
     def __init__(self, coffe_menu):
         self.menu = coffe_menu
 
+    # 选择咖啡
     def choose_coffee(self) -> int:
         menu = ", ".join([f"{index}: {i.name}" for index, i in enumerate(self.menu)])   # 为用户展示菜单
         while True:
@@ -15,6 +17,7 @@ class Human:
 
         return int(option)
 
+    # 为订单付款，返回付款金额与时间
     def pay(self, option: int):
         want_pay_value = self.menu[option].price
         while True:
