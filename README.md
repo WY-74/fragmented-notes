@@ -12,6 +12,7 @@
 - [统一建模语言UML(---未完善---)](base/002.ipynb)
 - [测试能力框架搭建参考](base/003.ipynb)
 - [项目需求的评审与理解](base/004.ipynb)
+- [SSH密钥配置多个GitHub账号](base/005.md)
 - [软件开发流程(---未完善---)](base/waterfall_xp_scrum_devops.ipynb)
 - [测试流程体系(---未完善---)](base/testing_process_system.ipynb)
 
