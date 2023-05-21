@@ -10,7 +10,7 @@
 - [SSH密钥配置多个GitHub账号](base/001.md)
 - [JDK安装](base/002.md)
 - [AndroidSDK安装](base/003.md)
-- [常用adb命令合集](base/004.md)
+- [常用adb命令](base/004.md)
 
 ## Python
 - [Pytest](python/001.md)
