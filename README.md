@@ -9,6 +9,7 @@
 路径: `base`
 - [SSH密钥配置多个GitHub账号](base/001.md)
 - [JDK安装](base/002.md)
+- [AndroidSDK安装](base/003.md)
 
 ## Python
 - [Pytest](python/001.md)
