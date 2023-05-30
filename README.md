@@ -13,7 +13,8 @@
 - [常用adb命令](base/004.md)
 
 ## Python
-- [venv虚拟环境的搭建](python/001.md)
+- [venv虚拟环境搭建](python/001.md)
+- [pyenv虚拟环境搭建](python/002.md)
 - [Pytest](python/002.md)
 - [Allure](python/002.ipynb)
 - [海象运算符的运用](python/assignment_expresions.ipynb)
