@@ -12,6 +12,7 @@
 - [AndroidSDK安装](base/003.md)
 - [常用adb命令](base/004.md)
 - [常用curl命令](base/005.md)
+- [JsonPath](base/006.md)
 
 ## Python
 - [venv虚拟环境搭建](python/001.md)
